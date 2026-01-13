@@ -87,7 +87,7 @@ At scale, this enables:
 This is why cybersecurity is no longer optional.
 
 Organizations like  
-[Codevirus Security Pvt. Ltd.](https://codevirussecurity.com),  
+[Codevirus Security Pvt. Ltd.](https://www.codevirussec.in/)),  
 a **Top 10 Cyber Security Services Company in Lucknow**,  
 regularly highlight how unsecured devices and applications expose individuals and businesses to surveillance and exploitation.
 
